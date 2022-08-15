@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Sabil Ofc.
+   * Contact Me on wa.me/6288980i70067
+   * Follow https://github.com/RimuruBotMd
 */
 
 const fs = require('fs')
@@ -18,9 +18,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','62895336722950','6287721317870','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
+global.owner = ['6288980870067','6288980870067','6288980870067','6288980870067']
+global.premium = ['6288980870067']
+global.packname = 'Sabil Ofc'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
